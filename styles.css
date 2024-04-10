@@ -1,0 +1,16 @@
+body {
+  position: relative;
+  margin: 0;
+}
+
+#btnC {
+  border: none;
+  padding: 10px;
+  font-weight: bolder;
+  cursor: pointer;
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 35%;
+  margin-bottom: 25%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
